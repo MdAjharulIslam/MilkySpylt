@@ -1,4 +1,4 @@
-<div >
+<!-- <div >
  <br />
   <div align="center" >
    <a href="https://youtu.be/pqYxZ8jd768" target="_blank">
@@ -16,10 +16,7 @@
 
  <h3 style="font-weight:700;font-size:30px;">AWWWARDS Site of the Day Website</h3>
 
-  <div >
-    Ready to build a website that has won an Awwwards Site of the Day?
-    This tutorial guides you through creating a stunning, interactive site using <b>GSAP</b>, <b>ReactJS</b>, and <b>Tailwind CSS</b>.
-   </div>
+  
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -34,7 +31,7 @@
 
 ## Introduction
 
-Dive into creating a cutting-edge web experience designed for Awwwards recognition, with **GSAP (GreenSock Animation Platform)** at its core. This project demonstrates how to leverage GSAP's powerful animation capabilities to craft fluid transitions, captivating scroll effects, and dynamic UI interactions, combining it with React and Tailwind CSS for a truly immersive and visually stunning website.
+ A cutting-edge web experience designed for Awwwards recognition, with **GSAP (GreenSock Animation Platform)** at its core. This project demonstrates how to leverage GSAP's powerful animation capabilities to craft fluid transitions, captivating scroll effects, and dynamic UI interactions, combining it with React and Tailwind CSS for a truly immersive and visually stunning website.
 
 ## Tech Stack
 
@@ -44,7 +41,6 @@ Dive into creating a cutting-edge web experience designed for Awwwards recogniti
 
 ## Features
 
-In this course, You’ll learn how to:
 
 - ✨ Parallax Like a Pro
 - ⚡️ Master Clip-Path Magic
@@ -56,9 +52,7 @@ In this course, You’ll learn how to:
 
 ## Quick Start
 
-```bash
-# 1. Clone the repo
-git clone [https://github.com/FullStackEmpire/gsap-awwwards-website.git](https://github.com/FullStackEmpire/gsap-awwwards-website.git)
+
 
 # 2. Install dependencies
 npm install
@@ -475,4 +469,4 @@ export { flavorlists, nutrientLists, cards };
 
 Join the community and connect with other developers!
 
-[![Discord](https://img.shields.io/discord/your-server-id?label=Join%20Discord&logo=discord&style=for-the-badge&color=5865F2)](https://discord.gg/cbtfr4BHF9)
+[![Discord](https://img.shields.io/discord/your-server-id?label=Join%20Discord&logo=discord&style=for-the-badge&color=5865F2)](https://discord.gg/cbtfr4BHF9) -->
