@@ -1,25 +1,23 @@
 <div align="center">
   <br />
 
-  <a href="https://youtu.be/pqYxZ8jd768" target="_blank">
-    <img src="public/images/Final.png" alt="MilkySplyt Project Banner" style="border-radius:10px;" />
-  </a>
+<h1 style="font-weight:700; font-size:32px; margin-top:16px;">
+    MilkySplyt — Awwwards Site of the Day Experience
+  </h1>
 
   <br /><br />
-
+<p>
+    An award-style, animation-driven website built & designed by me
+  </p>
   <div>
     <img src="https://img.shields.io/badge/React_JS_v19-007ACC?style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind_CSS_v4-030712?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
   </div>
 
-  <h1 style="font-weight:700; font-size:32px; margin-top:16px;">
-    MilkySplyt — Awwwards Site of the Day Experience
-  </h1>
+  
 
-  <p>
-    An award-style, animation-driven website built & designed by me
-  </p>
+  
 </div>
 
 ---
