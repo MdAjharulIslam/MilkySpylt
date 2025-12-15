@@ -2,7 +2,7 @@
   <br />
 
 <h1 style="font-weight:700; font-size:32px; margin-top:16px;">
-    MilkySplyt — Awwwards Site of the Day Experience
+    MilkySpylt — Awwwards Site of the Day Experience
   </h1>
 
   <br /><br />
@@ -24,9 +24,9 @@
 
 ## 🏆 Awwwards-Style Project Description
 
-**MilkySplyt** is a high-end, animation-driven web experience that I personally designed and developed to push the boundaries of **creative frontend development**.
+**MilkySpylt** is a high-end, animation-driven web experience that I personally designed and developed to push the boundaries of **creative frontend development**.
 
-Built with **React 19**, **Tailwind CSS v4**, and powered by **GSAP (GreenSock Animation Platform)**, MilkySplyt demonstrates how modern frontend technologies can be combined to deliver **award-level motion design**, immersive scroll-based storytelling, and smooth performance across all devices.
+Built with **React 19**, **Tailwind CSS v4**, and powered by **GSAP (GreenSock Animation Platform)**, MilkySpylt demonstrates how modern frontend technologies can be combined to deliver **award-level motion design**, immersive scroll-based storytelling, and smooth performance across all devices.
 
 From cinematic scroll animations to carefully choreographed GSAP timelines, every interaction is crafted with intention. The experience blends **bold typography**, **parallax depth**, **pinning sequences**, and **Awwwards-style text reveals** to create a visually rich and memorable digital journey.
 
@@ -34,7 +34,7 @@ MilkySplyt is not just a UI showcase — it is a **motion system** that reflects
 
 ---
 
-## 🚀 Why MilkySplyt Stands Out
+## 🚀 Why MilkySpylt Stands Out
 
 - 🎬 **Cinematic GSAP Animations** — Advanced timelines, ScrollTrigger, and smooth motion choreography  
 - 🌀 **Scroll-Driven Storytelling** — Parallax, pinning, and reveal effects guide the user journey  
@@ -58,7 +58,7 @@ MilkySplyt is not just a UI showcase — it is a **motion system** that reflects
 
 ## 🚀 Introduction
 
-MilkySplyt is a **creative frontend experiment** focused on motion, storytelling, and performance.
+MilkySpylt is a **creative frontend experiment** focused on motion, storytelling, and performance.
 
 The goal was to build an **Awwwards-style website** using real-world tools and production-ready code — not just visual mockups. Every section is designed to feel intentional, fluid, and immersive while maintaining clean architecture and responsive behavior.
 
@@ -89,5 +89,5 @@ The goal was to build an **Awwwards-style website** using real-world tools and p
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/mdajharulislam/milkysplyt.git
-cd milkysplyt
+git clone https://github.com/mdajharulislam/milkyspylt.git
+cd milkyspylt
